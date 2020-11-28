@@ -1,0 +1,29 @@
+.weather .weathericon,
+.weather .fa-home {
+  font-size: 75%;
+  line-height: 65px;
+  display: inline-block;
+  transform: translate(0, -3px);
+}
+
+.weather .humidityIcon {
+  padding-right: 4px;
+}
+
+.weather .humidity-padding {
+  padding-bottom: 6px;
+}
+
+.custom-temperature {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  font-weight: 600;
+}
+
+.weather-icon-font-size {
+  font-size: 55px;
+}
+
+.extra-info-font-size {
+  font-size: 35px;
+}

@@ -1,1 +1,1 @@
-# MyMagicMirrorConfigs
+# MyMagicMirrorModules
